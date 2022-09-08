@@ -3,7 +3,7 @@
 ### Repositories created & used
 ---
 Each project will have its own repository, as specified in the brief.
-- Project 1:    CMPG323-Overview---34510982
+# - Project 1:    CMPG323-Overview---34510982
 - Project 2:    CMPG323-Project-2---34510982
 - Project 3:    CMPG323-Project-3---34510982
 - Project 4:    CMPG323-Project-4---34510982
@@ -20,8 +20,4 @@ GitHub Flow is a quick and simplified branching strategy with shorter developmen
 
 ### Use of .gitignore
 ---
-A .gitignore file is a text file in your git repository that instructs git not to track specific files and directories that you do not want to be added to your main repository. This file will be updated as needed.
-
-### Credentials
----
-As a security measure, sensitive data will be kept in a.git-credentials file.
+A .gitignore file is a text file in your git repository that instructs git not to track specific files and directories that you do not want to be added to your main repository. This file will be updated as needed to hide sensitive information and data used for testing.
